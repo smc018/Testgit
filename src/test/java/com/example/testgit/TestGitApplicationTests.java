@@ -10,4 +10,6 @@ class TestGitApplicationTests {
     void contextLoads() {
     }
 
+    水电费水电费
+
 }
